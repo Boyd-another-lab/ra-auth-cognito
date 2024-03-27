@@ -9586,7 +9586,6 @@ __metadata:
     typescript: ^5.3.3
   peerDependencies:
     ra-auth-cognito: ^1.1.0
-    react-admin: ^4.16.9
   languageName: unknown
   linkType: soft
 
@@ -9599,7 +9598,6 @@ __metadata:
     typescript: ^5.3.3
   peerDependencies:
     ra-auth-cognito: ^1.1.0
-    react-admin: ^4.16.9
   languageName: unknown
   linkType: soft
 
@@ -9649,7 +9647,6 @@ __metadata:
   peerDependencies:
     amazon-cognito-identity-js: ^6.1.2
     qrcode.react: ^3.1.0
-    ra-core: ^4.7.0
     react: ^16.9.0 || ^17.0.0 || ^18.0.0
     react-admin: ^4.16.9
     react-dom: ^16.9.0 || ^17.0.0 || ^18.0.0
